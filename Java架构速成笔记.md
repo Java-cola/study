@@ -20,7 +20,9 @@
 
 #### 入口 ：点击链接加入群聊【[Java进阶群](https://jq.qq.com/?_wv=1027&k=17yzGD6Q)】：https://jq.qq.com/?_wv=1027&k=17yzGD6Q 或者添加小助理微信即可获取
 
-![image-20210618135822953](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210618135822953.png)
+![5~S0X@ %IT29($(POGG2{UV](https://user-images.githubusercontent.com/85685793/122516124-f1507b80-d040-11eb-8812-55be9a93053f.png)
+
+
 # Java架构速成笔记涵盖内容如下：
 
 - 专题一：扎牢基础，深入底层，面试我可造火箭（多线程与高并发+深入JMM+JVM调优案例式实战化指导+经常被问操作系统原理剖析+从底向上网络原理解读+案例式深入解析23种设计模式+设计原则水到渠成）
@@ -224,5 +226,4 @@
 不论是技术经理还是架构师，没有绝对地说哪条路是对还是错，适合自己才是最重要。小公司的可能没有架构师这个概念，大公司的架构师职位又不是那么容易拿下。但不管怎样，不断去学习新的技术，提升自己的层次是很有必要的，无论你在哪一家公司，过硬的技术水平才能吃得开。
 
 #### 笔记获取入口 ：点击链接加入群聊【[Java进阶群](https://jq.qq.com/?_wv=1027&k=17yzGD6Q)】：https://jq.qq.com/?_wv=1027&k=17yzGD6Q 或者添加小助理微信即可获取
-
-![image-20210618135822953](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210618135822953.png)
+![5~S0X@ %IT29($(POGG2{UV](https://user-images.githubusercontent.com/85685793/122516092-e7c71380-d040-11eb-83b4-5c457dbd3f15.png)
